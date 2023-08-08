@@ -1,0 +1,14 @@
+{
+  "name": "cypress-mark",
+  "version": "1.0.0",
+  "description": "Projeto de Testes de ponta a ponta no Mark L",
+  "main": "index.js",
+  "author": "Fernando Vitor",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "allure-commandline": "^2.23.1",
+    "cypress": "^12.17.3"
+  },
+  "dependencies": {}
+}
